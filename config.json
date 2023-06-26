@@ -1,5 +1,5 @@
 {
-    "api": "https://wally.britsov.net/",
+    "api": "https://britsovuk-wally.ulfer.no/",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
